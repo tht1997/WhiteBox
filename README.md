@@ -1,2 +1,2 @@
 # WhiteBox
-WhiteBox source code
+WhiteBox source code - OpenSource
