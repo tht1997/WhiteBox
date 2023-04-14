@@ -54,5 +54,6 @@ Parameter: id (GET)
 ```
 
 > POC result with Sqlmap
-> 
+
 ![Example Image](https://drive.google.com/uc?id=1GhKCQ6VpX8Z4cXmJDrd5u9bbfRVU4qiv)
+
