@@ -1,6 +1,6 @@
 # Exploit Title: Cosmetic and Beauty Products Online Shop 1.0 - Broken Access Control with Update account funtions
 
-The c parameter on category detail on Cosmetics-and-Beauty-Product-Online-Store v1.0 appears to be vulnerable to SQL injection attacks. 
+> Broken Access Control via ID user can change info, email of other account client on Cosmetics-and-Beauty-Product-Online-Store v1.0.
 
 ### Date: 
 > 15 Apr 2023
