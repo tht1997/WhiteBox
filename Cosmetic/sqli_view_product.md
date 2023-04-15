@@ -99,7 +99,7 @@ back-end DBMS: MySQL >= 5.0 (MariaDB fork)
 ?>
 ```
 
-5. Successful exploit screenshots are below (without id parameter)
+5. Successful exploit screenshots are below (with id parameter)
 ![Example Image](https://drive.google.com/uc?id=1oHt3zLrp6Xa183tPQSaNGxhhWv1mcdrL)
 
 
