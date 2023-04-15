@@ -21,7 +21,7 @@ The c parameter on category detail on Cosmetics-and-Beauty-Product-Online-Store 
 
 
 ### Description:
-> Broken Access Control via ID user can change info, password of other account client on Cosmetics-and-Beauty-Product-Online-Store v1.0.
+> Broken Access Control via ID user can change info, email of other account client on Cosmetics-and-Beauty-Product-Online-Store v1.0.
 
 ### Proof of Concept:
 > Following steps are involved:
