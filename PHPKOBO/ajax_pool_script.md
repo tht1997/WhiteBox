@@ -21,8 +21,9 @@ Sec-Fetch-Mode: cors
 Sec-Fetch-Site: same-origin
 Te: trailers
 
-cmd=vote&answer=%5B%22Vancouver%22%5D&appid=WbOqpMWLRsLA0b6VTOkmvyj04xZO8LZaFKPVx8S6tNeVbJYfcZVHWBpRZkwqrch6&tclass=poll-background-image&tid=```
+cmd=vote&answer=%5B%22Vancouver%22%5D&appid=WbOqpMWLRsLA0b6VTOkmvyj04xZO8LZaFKPVx8S6tNeVbJYfcZVHWBpRZkwqrch6&tclass=poll-background-image&tid=
+```
 PoC Image:
 
-![PoC Image](PHPKOBO/apsmx_ajax_pool_3.18.PNG "POC IMAGE")
+![PoC Image](apsmx_ajax_pool_3.18.PNG "POC IMAGE")
 
