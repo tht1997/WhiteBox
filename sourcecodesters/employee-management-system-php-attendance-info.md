@@ -16,9 +16,9 @@
 > [/taskmatic/attendance-info.php](taskmatic/attendance-info.php)
 ### Proof of Concept:
 Review source code
-![SQL](https://github.com/tht1997/WhiteBox/blob/main/sourcecodester/attendance-info.png?raw=true)
+![SQL](https://github.com/tht1997/WhiteBox/blob/main/sourcecodesters/attendance-info.png?raw=true)
 \
-Step 1. Go to URL edit: http://localhost/taskmatic/update-admin.php?admin_id=1
+Step 1. Go to URL /attendance-info.php
 \
 Step 2. Run with sqlmap
 
