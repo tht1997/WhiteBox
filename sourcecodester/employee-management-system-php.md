@@ -15,6 +15,9 @@
 ### URL:
 > [/update-admin.php?admin_id=1](http://localhost/taskmatic/update-admin.php?admin_id=1)
 ### Proof of Concept:
+Review source code
+![SQL](https://github.com/tht1997/WhiteBox/blob/main/sourcecodester/isadmin.png?raw=true)
+\
 Step 1. Go to URL edit: http://localhost/taskmatic/update-admin.php?admin_id=1
 \
 Step 2. Run with sqlmap
